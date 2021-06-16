@@ -1,3 +1,4 @@
 #Machine Translation
 
 The neural network translates sentences into telugu.
+An LSTM based encoder decoder is used. The model performed relatively well on the low support data. More data certainly helps the model
